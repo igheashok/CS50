@@ -53,7 +53,7 @@ int word_Counter(string sampleText)
             wordCount++;
         }
     }
-    return ++wordCount;                                                         //++ to include the last remaining word 
+    return ++wordCount;                                                                         //++ to include the last remaining word 
 }
 
 

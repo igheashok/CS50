@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: sort1 was comparatively faster in large-sorted-samples.
+
+sort2 uses: merge sort
+
+How do you know?: sort2 did well in every non-sorted samples. But in sorted samples same amount of time was taken.
+
+sort3 uses: selection sort
+
+How do you know?: in large-sorted-samples sort3 took more time than sort1 (which is bubble sort).
